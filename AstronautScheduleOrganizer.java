@@ -3,21 +3,6 @@ import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 import java.util.*;
 import java.util.logging.*;
-
-/**
- * Astronaut Daily Schedule Organizer
- * Single-file, console-based app demonstrating:
- * - Singleton (ScheduleManager)
- * - Factory (TaskFactory)
- * - Observer (ScheduleObserver)
- * - Clean OOP + SOLID style
- *
- * Run:
- * javac AstronautScheduleOrganizer.java
- * java AstronautScheduleOrganizer
- *
- * Author: Suriya (for Educational Initiatives interview)
- */
 public class AstronautScheduleOrganizer {
 
     // ---------- Logging ----------
